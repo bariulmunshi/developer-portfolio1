@@ -64,5 +64,19 @@ h2 {
     box-shadow: 10px 10px 40px gray;
     padding-left: 20px;
     border-radius: 10px;
+
+}
+
+#full-stack {
+    border-left: 10px solid blue;
+
+}
+
+#baby-web {
     border-left: 10px solid saddlebrown;
+}
+
+footer {
+    text-align: center;
+    margin-top: 120px;
 }
